@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-16T00:17:42.437944400Z</date>
+  <millis>1565914662437</millis>
+  <nanos>944400</nanos>
+  <sequence>0</sequence>
+  <logger>CalculadoraComLoggers</logger>
+  <level>INFO</level>
+  <class>CalculadoraComLoggers</class>
+  <method>somar</method>
+  <thread>1</thread>
+  <message>Iniciando calculo soma.</message>
+</record>
+<record>
+  <date>2019-08-16T00:17:42.537676900Z</date>
+  <millis>1565914662537</millis>
+  <nanos>676900</nanos>
+  <sequence>1</sequence>
+  <logger>CalculadoraComLoggers</logger>
+  <level>INFO</level>
+  <class>CalculadoraComLoggers</class>
+  <method>somar</method>
+  <thread>1</thread>
+  <message>Calculo soma finalizado.</message>
+</record>
+<record>
+  <date>2019-08-16T00:17:42.538674900Z</date>
+  <millis>1565914662538</millis>
+  <nanos>674900</nanos>
+  <sequence>2</sequence>
+  <logger>CalculadoraComLoggers</logger>
+  <level>INFO</level>
+  <class>CalculadoraComLoggers</class>
+  <method>subtrair</method>
+  <thread>1</thread>
+  <message>Iniciando calculo subtração.</message>
+</record>
+<record>
+  <date>2019-08-16T00:17:42.539672100Z</date>
+  <millis>1565914662539</millis>
+  <nanos>672100</nanos>
+  <sequence>3</sequence>
+  <logger>CalculadoraComLoggers</logger>
+  <level>INFO</level>
+  <class>CalculadoraComLoggers</class>
+  <method>subtrair</method>
+  <thread>1</thread>
+  <message>Calculo subtração finalizado.</message>
+</record>
+<record>
+  <date>2019-08-16T00:17:42.540671500Z</date>
+  <millis>1565914662540</millis>
+  <nanos>671500</nanos>
+  <sequence>4</sequence>
+  <logger>CalculadoraComLoggers</logger>
+  <level>INFO</level>
+  <class>CalculadoraComLoggers</class>
+  <method>subtrair</method>
+  <thread>1</thread>
+  <message>Iniciando calculo subtração.</message>
+</record>
+<record>
+  <date>2019-08-16T00:17:42.541666900Z</date>
+  <millis>1565914662541</millis>
+  <nanos>666900</nanos>
+  <sequence>5</sequence>
+  <logger>CalculadoraComLoggers</logger>
+  <level>INFO</level>
+  <class>CalculadoraComLoggers</class>
+  <method>subtrair</method>
+  <thread>1</thread>
+  <message>Calculo subtração finalizado.</message>
+</record>
+</log>
